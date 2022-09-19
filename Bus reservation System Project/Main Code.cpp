@@ -1,3 +1,9 @@
+/*
+This was the 1st ever personal project I created for my  C++ class presentation. 
+This program demonstrated concepts used in OOP and Programming Fundamentals. 
+(i.e Basic I/O, Classes, Objects, Functions, Validation checks, Loops, File Handling, Error checks, and a Nice login feature
+which I added cause I wanted it Look a little every-day use type of program 😃 
+*/
 #include<iostream>
 #include<conio.h>
 #include<fstream>
